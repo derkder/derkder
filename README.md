@@ -20,4 +20,4 @@
 				
 
 ```
-![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/derker/count.svg)
