@@ -20,4 +20,3 @@
 				
 
 ```
-![Visitor Count](https://profile-counter.glitch.me/derker/count.svg)
