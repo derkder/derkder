@@ -21,7 +21,7 @@
 
 ```
 
-|  笔记   |  项目  |
+|笔记     |项目    |
 |------|------|
 | [算法](https://github.com/derkder/leetcode) | [动物庄园](https://github.com/derkder/AnimalFarm) |
 | [游戏引擎](https://github.com/derkder/octanes-unity) | [纸间漫步](https://github.com/derkder/GameJam23) |		
