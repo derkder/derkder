@@ -19,7 +19,7 @@
                 .o'___/            .o______}
 ```
 
-|笔记     |项目    |
+|Notes     |Projects    |
 |----------|----------|
 | [算法](https://github.com/derkder/leetcode) | [Game: Potion Factory(VR&Multi-Players)](https://github.com/derkder/PotionFacory_VR.git)  |
 | [游戏引擎Unity](https://github.com/derkder/octanes-unity)  | [Graphic: NRCwithFalcor](https://github.com/derkder/FalcorNRC)|
